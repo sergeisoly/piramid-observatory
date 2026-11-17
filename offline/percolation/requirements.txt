@@ -1,0 +1,6 @@
+# Versions used for the study (Python 3.13 on macOS; the CUDA run used the pod image's torch 2.8.0+cu128).
+torch==2.8.0
+numpy==2.5.5
+scipy==1.18.1
+scikit-learn==1.9.1
+networkx==3.7

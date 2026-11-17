@@ -1,0 +1,14 @@
+# dependencies and build output
+node_modules/
+dist/
+
+# screenshot and framing tool output
+shots/
+
+# local tooling
+.claude/
+.DS_Store
+*.log
+
+# default export paths for the review tools
+review/
